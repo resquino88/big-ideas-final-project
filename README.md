@@ -6,7 +6,7 @@
 
 ## Datasets Used
 - convenience_stores.ipynb: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
-> Provides data about food facilities in the area for each municipal. Data used in the notebooks graphs is filtered by the description.
+> Provides data about food facilities in the area for each municipal. Data used in the notebook's graphs is filtered by the description.
 ...
 
 ## Overview
