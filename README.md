@@ -3,6 +3,7 @@
 ## Team Members
 - Ryan Esquino: rne7@pitt.edu, convenience_stores.ipynb
 - Isaac Samuel: ISS51@pitt.edu, Homer's Bars.ipynb
+- Lucas Weiland: LAW222@pitt.edu, donuts.ipynb
 ...
 
 ## Datasets Used
@@ -10,6 +11,8 @@
 > Provides data about food facilities in the area for each municipal. Data used in the notebook's graphs is filtered by the description.
 - Homer's Bars.ipynb: https://data.wprdc.org/dataset/allegheny-county-assets/resource/279da54f-a520-4bb4-afd0-ffbb7e797faf
 > Provides data about Allegheny County's assets including the distribution of bars and restaurants with alcohol
+- donuts.ipynb: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0
+> Provides data about food facilities in the area for each municipal. Data used in the notebook's graphs is filtered by the facility_name. 
 ...
 
 ## Overview
